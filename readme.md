@@ -1,14 +1,17 @@
-# Analoge Uhr
-Dieses Projekt zeigt eine analoge Uhr mit HTML, CSS und JavaScript.
+# Analog Clock
+This project includes:
+- An HTML file for the clock's structure.
+- Two JavaScript files to handle the clock's functionality.
+- A CSS file for styling.
 
-## Funktionen
-- Drei Zeiger (Stunden, Minuten, Sekunden)
-- Responsives Design
-- Zeiger bewegen sich basierend auf der aktuellen Zeit
+## Features
+- Three hands (hour, minute, second) to display the current time.
+- Responsive design for different screen sizes.
+- Hands move dynamically based on the actual time.
 
-## Anleitung
-1. Lade die Dateien herunter.
-2. Öffne die `index.html` Datei in einem Browser.
+## Instructions
+1. Download all the files.
+2. Open the `index.html` file in a modern web browser.
 
-## Autor
+## Author
 Sascha Damerau
