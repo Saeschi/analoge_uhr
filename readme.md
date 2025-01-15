@@ -1,6 +1,6 @@
 # Analog Clock
 This project includes:
-- An HTML file which is completle useless
+- An HTML file which is completle useless.
 - Two JavaScript files to handle the clock's functionality.
 - A CSS file for styling.
 
